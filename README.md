@@ -1,5 +1,7 @@
 # [Omnifood Website Project 🚀](https://omnifood-mihailomarkovic.netlify.app/)
 
+![Picture of Omnifood website on a laptop.](img/readme-ss.png)
+
 ## Introduction
 
 Welcome to the Omnifood Website Repository, a project that showcases my ability to create modern, responsive, and user-focused web experiences. This landing page is designed to highlight the features and vision of Omnifood, a fictional AI-driven meal planning and delivery service. Through this project, I honed my skills in HTML, CSS, and JavaScript, and applied best practices in responsive web design and clean code organization.
@@ -63,5 +65,3 @@ From showcasing diverse diets and sample meals to presenting transparent pricing
 The Omnifood Website demonstrates my passion for web development and my ability to create modern, responsive, and user-friendly digital experiences. It reflects the foundational skills I've gained in HTML, CSS, and JavaScript, and my commitment to applying these skills in meaningful ways.
 
 Thank you for taking the time to visit this repository, please feel free to explore the code and visit the site.
-
-![Picture of Omnifood website on a laptop.](img/readme-ss.png)
