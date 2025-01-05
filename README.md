@@ -1,6 +1,6 @@
 # [Omnifood Website Project 🚀](https://omnifood-mihailomarkovic.netlify.app/)
 
-![Picture of Omnifood website on a laptop.](img/readme-ss.png)
+![Picture of Omnifood website on a laptop.](img/readme-img.png)
 
 ## Introduction
 
